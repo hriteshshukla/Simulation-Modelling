@@ -1,5 +1,7 @@
 **Operational Efficiency Simulation – Kent Diabetes Centre** 
+
 **Toolset: SIMUL8, Excel, Statistical Distributions, Sensitivity Analysis** 
+
 **Project Type: Individual Academic Project (University of Kent – MSc Business Analytics)**
 
 Modelled and analysed patient workflows at Kent Diabetes Centre using discrete-event simulation to identify operational inefficiencies and cost bottlenecks. Built a detailed SIMUL8 model incorporating real-world constraints (arrival rates, consultation stages, and resource allocation) and tested multiple configurations.
